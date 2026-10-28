@@ -52,7 +52,7 @@
 1. Authored the C# HTTP-triggered function `HttpTrigger1` inside the local project targeting `.NET 8`.
 2. Set authorization level to `Anonymous` accepting `GET` and `POST` methods to return welcome response content.
 
-![C# HTTP Trigger Source Code](images/create-http-trigger-c#.png)
+![C# HTTP Trigger Source Code](images/create-http-trigger-c.png)
 
 *Visual Studio Code workspace showing HttpTrigger1.cs code implementation and C# Dev Kit build output.*
 
